@@ -1,2 +1,2 @@
-# angularCurso
-Curso Angular 2
+# angularCursoAPI
+Curso Angular 2 API
